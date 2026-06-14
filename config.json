@@ -3,5 +3,6 @@
     "subTitle":"知人者智,自知者明;上善若水,水善利万物而不争。",
     "avatarUrl":"https://avatars.githubusercontent.com/u/202121306?v=4&size=64",
     "GMEEK_VERSION":"last",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 }
